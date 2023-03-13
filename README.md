@@ -7,4 +7,8 @@ To use this repository:
 
 ## Additional Perspectives 
 
+- React developers use JSX to simplify their code
+- Some HTML attributes such as class and for are different in JSX
+- Capitalize JSX elements in their definitions and their filenames
+
 [JSX Depth](https://reactjs.org/docs/jsx-in-depth.html)
