@@ -1,4 +1,5 @@
 # Introduction to JSX
+![Screenshot logo](./jsx-example/docs/jsx.avif)
 
 To use this repository:
 - Click the "Use this template" button in the upper right
